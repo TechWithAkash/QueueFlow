@@ -5,12 +5,17 @@
 **Token queues for busy clinic front desks.**
 Add a patient, call the next one to a counter, and let everyone see where they stand: on the waiting-room TV and on their own phone.
 
+[![Live demo](https://img.shields.io/badge/live%20demo-queueflow--umber.vercel.app-0f8a6d?logo=vercel&logoColor=white)](https://queueflow-umber.vercel.app/)
 [![CI](https://github.com/TechWithAkash/QueueFlow/actions/workflows/ci.yml/badge.svg)](https://github.com/TechWithAkash/QueueFlow/actions/workflows/ci.yml)
 ![Next.js](https://img.shields.io/badge/Next.js-16-black?logo=nextdotjs)
 ![TypeScript](https://img.shields.io/badge/TypeScript-5-3178c6?logo=typescript&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-replica%20set-47A248?logo=mongodb&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind-4-38bdf8?logo=tailwindcss&logoColor=white)
 ![Tests](https://img.shields.io/badge/tests-44%20passing-0f8a6d)
+
+### 🔗 [Live demo: queueflow-umber.vercel.app](https://queueflow-umber.vercel.app/)
+
+Click **Try the live demo** on the page. No sign-up needed.
 
 <img src="docs/screenshots/console.png" alt="QueueFlow manager console showing three counters and the waiting list" width="900" />
 
@@ -193,6 +198,10 @@ erDiagram
 - **Light and dark themes**, responsive down to phone width, and it respects reduced motion.
 
 ## Try it
+
+**Online:** <https://queueflow-umber.vercel.app/> (click **Try the live demo**).
+
+**On your computer:**
 
 **Requirements:** Node.js 20 or newer.
 
